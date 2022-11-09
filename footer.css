@@ -1,0 +1,48 @@
+footer{
+    background: var(--bg-rodape);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.apeperia{
+    margin: 0;
+}
+.links-redes{
+    display: flex;
+    margin-top: 2.8rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+.redes-item{
+    margin: 0 1rem
+}
+.links{
+    display: flex;
+    margin-bottom: .5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.link-item{
+    color: var(--branco);
+    font-family: 'Open Sans';
+    font-size: 1rem;
+    margin: 1.3rem .5rem;
+}
+
+@media screen and (min-width: 1024px){
+    footer{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    nav{
+        text-align: left;
+        min-width: 600px;
+    }
+    .link-item:hover{
+        font-size: 1.1rem;
+        color: var(--branco);
+        font-family: 'Open Sans';
+    }
+}
