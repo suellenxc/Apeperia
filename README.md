@@ -6,6 +6,7 @@
 <br>
 Projeto desenvolvido gradativamente à partir do mobile passando para outras queries e screens, tablet e desktop.
 Utilizando medidas relativas efemeral REM, imagens no formato svg e pseudo-classe hover para deixar o projeto menos estático.
+Um vídeo curto foi inserido no campo do HTML para maiores explicações sobre o conteúdo do projeto.
 <br>
 <br>
 <strong>Técnicas e Tecnologias aplicadas</strong>
