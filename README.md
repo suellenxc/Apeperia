@@ -6,6 +6,7 @@
 <br>
 Projeto desenvolvido gradativamente à partir do mobile passando para outras queries e screens, tablet e desktop.
 Utilizando medidas relativas efemeral REM, imagens no formato svg e pseudo-classe hover para deixar o projeto menos estático.
+<br>
 Um vídeo curto foi inserido no campo do HTML para maiores explicações sobre o conteúdo do projeto.
 <br>
 <br>
@@ -18,6 +19,8 @@ Um vídeo curto foi inserido no campo do HTML para maiores explicações sobre o
 :hammer: Media queries
 <br>
 :hammer: Pseudo-classes
+<br>
+:hammer: Tag vídeo e seus controles
 <br>
 :hammer: Medida relativa: REM 
 
