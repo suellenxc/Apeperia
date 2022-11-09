@@ -16,6 +16,8 @@ Um vídeo curto foi inserido no campo do HTML para maiores explicações sobre o
 <br>
 :hammer: CSS3
 <br>
+:hammer: Variáveis do CSS
+<br>
 :hammer: Media queries
 <br>
 :hammer: Pseudo-classes
